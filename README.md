@@ -46,7 +46,7 @@ My responsibility is to create systems that are reliable, transparent, fair, and
    - `TreasureHuntGame.ipynb`
    - `TreasureMaze.py`
    - `GameExperience.py`
-2. Open the `.ipynb` file in Jupyter Notebook.
+2. Open the `.ipynb` file in Jupyter Notebook along with the other files.
 3. Run the cells in order to build, train, and test the pirate agent.
 4. You can modify training parameters in the `qtrain()` function to experiment with learning behavior.
 
